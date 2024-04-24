@@ -6,13 +6,14 @@ Group Number:
 
 Group Members:
 
-Shariful Islam (19201053)
+19201053 Shariful Islam 
 
-Abu Sayed (21201283)
+21201283 Abu Sayed 
 
-Rezwan Aziz Prince (24141190)
+24141190 Rezwan Aziz Prince 
 
-Mahmudul Hassan (24141223)
+24141223 Mahmudul Hassan 
+
 
 
 We also correctly have uploaded slide.PPT here.
