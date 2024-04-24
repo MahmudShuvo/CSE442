@@ -1,7 +1,13 @@
-Submission 1 is an individual submission of a paper review. 
+Task 1: Individual Paper Review
 
-Individual submitter,
-Mahmudul Hassan
-ID: 24141223
-Team-10 
-CSE442
+Paper title: A 3D Process Design Kit Generator based on Customizable 3D Layout Design Environment. 
+Link to the paper:  https://ieeexplore.ieee.org/document/6702324
+
+
+Group Number:
+10
+
+Individual Submitter:
+24141223 Mahmudul Hassan
+
+I also correctly uploaded critical report.PDF here.
