@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail
 
 
 Link to unlisted YouTube video:
-https://www.youtube.com/watch?v=oxokhZOMFLE
+
 
 
 Public link to the slide (Anyone on the internet can view without login):
