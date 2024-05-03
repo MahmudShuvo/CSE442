@@ -9,6 +9,9 @@ Link to unlisted YouTube video:
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1w3ht1eQuxOlGKJCxHkxW2jlx77Z7PXpfA0B-MxZo5is/edit#slide=id.ga9469d1f40_0_86
 
+Drive Link to the public logo and jersey glb file: 
+https://drive.google.com/drive/u/0/folders/1l9-fJ1RohSN8813jSceMrR3_3PBCe7wG
+
 Group Number:
 10
 
